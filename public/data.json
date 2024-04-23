@@ -1,0 +1,56 @@
+{
+    "maxMinProduction": [
+        {
+            "year": 1950,
+            "maxCrop": "ABC",
+            "minCrop": "DEF"
+        },
+        {
+            "year": 1951,
+            "maxCrop": "XYZ",
+            "minCrop": "PQR"
+        },
+        {
+            "year": 1952,
+            "maxCrop": "A1B",
+            "minCrop": "C2D"
+        },
+        {
+            "year": "...",
+            "maxCrop": "...",
+            "minCrop": "..."
+        },
+        {
+            "year": 2000,
+            "maxCrop": "...",
+            "minCrop": "..."
+        }
+    ],
+    "averageYieldAndArea": [
+        {
+            "crop": "ABC",
+            "averageYield": "###",
+            "averageArea": "###"
+        },
+        {
+            "crop": "A1B",
+            "averageYield": "###",
+            "averageArea": "###"
+        },
+        {
+            "crop": "...",
+            "averageYield": "...",
+            "averageArea": "..."
+        },
+        {
+            "crop": "...",
+            "averageYield": "...",
+            "averageArea": "..."
+        },
+        {
+            "crop": "XYZ",
+            "averageYield": "###",
+            "averageArea": "###"
+        }
+    ]
+}
